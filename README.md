@@ -1,0 +1,1 @@
+I have  created a sample shopping website based around one page, which acts as a container. Other pages/content are loaded into the main content area dynamically, depending on what links the user selects.
